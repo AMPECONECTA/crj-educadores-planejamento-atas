@@ -1,0 +1,9 @@
+{
+  "name": "CRJ Cariacica - Planejamentos, Ideias e Atas",
+  "short_name": "CRJ Educadores",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#183a9e",
+  "lang": "pt-BR"
+}
